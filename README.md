@@ -12,6 +12,8 @@ This is assignment task source code for Digivisions Co.
 ### 4-Page3 Library
 ### 5-Room
 ### 6-ViewBinding
+### 7-Retrofit
+### 8-Use Case
 ## Sample:
 https://github.com/devalkhayat/digivisions-task/assets/46660096/4dd35404-f5c0-4ab5-a7bc-ee9d1fda60bf
 
